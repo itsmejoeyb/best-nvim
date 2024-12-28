@@ -7,7 +7,7 @@ keymap.set("i", "jk", "<ESC>", { desc = "Exit insert mode with jk" })
 
 keymap.set("n", "<Esc>", "<cmd>nohlsearch<CR>")
 
-keymap.set("n", "<leader>e", "<cmd>Explore<CR>")
+keymap.set("n", "<leader>e", "<cmd>Oil<CR>")
 keymap.set("n", "<leader>g", "<cmd>Neogit kind=auto<CR>")
 
 -- window management
